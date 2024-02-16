@@ -1,6 +1,5 @@
 # PWA-Text-Editor
 
-
 ## Description
 
 This is an app where the user can create notes or code snippets with or without an internet connection and be able to reliably retrieve it later.
@@ -42,6 +41,9 @@ When the user registers a service worker, the user will have a static asset pre-
 When the user deploys to Render, they will have proper built scripts for a webpack application.
 
 ## Credits
+
+Starter Code: 
+- https://git.bootcampcontent.com/UNC-Charlotte/UNCC-VIRT-FSF-FT-12-2023-U-LOLC
 
 Developer:
 - Natalie Yaspo
