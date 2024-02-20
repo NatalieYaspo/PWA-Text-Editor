@@ -28,8 +28,8 @@ module.exports = () => {
       // new GenerateSW(),
       new MiniCssExtractPlugin(),
       new WebpackPwaManifest({
-        name: 'TextEditor',
-        short_name: 'TextEditor',
+        name: 'Just Another Text Editor',
+        short_name: 'J.A.T.E.',
         description: 'Create Notes or Code Snippets',
         background_color: '#7eb4e2',
         theme_color: '#7eb4e2',
